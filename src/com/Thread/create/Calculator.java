@@ -1,4 +1,4 @@
-package com.Thread.test1;
+package com.Thread.create;
 
 public class Calculator implements Runnable{
 	private int number;

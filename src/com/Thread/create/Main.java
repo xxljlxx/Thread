@@ -1,4 +1,4 @@
-package com.Thread.test1;
+package com.Thread.create;
 
 import java.io.FileWriter;
 import java.io.IOException;
