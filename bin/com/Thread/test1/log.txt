@@ -1,0 +1,60 @@
+main: status of thread 0: NEW
+main: status of thread 1: NEW
+main: status of thread 2: NEW
+main: status of thread 3: NEW
+main: status of thread 4: NEW
+main: status of thread 5: NEW
+main: status of thread 6: NEW
+main: status of thread 7: NEW
+main: status of thread 8: NEW
+main: status of thread 9: NEW
+Main : Id 9 - Thread0 
+Main : Priority 10
+Main : Old state NEW 
+Main : New state RUNNABLE 
+Main :===============================================
+Main : Id 10 - Thread1 
+Main : Priority 1
+Main : Old state NEW 
+Main : New state BLOCKED 
+Main :===============================================
+Main : Id 11 - Thread2 
+Main : Priority 10
+Main : Old state NEW 
+Main : New state BLOCKED 
+Main :===============================================
+Main : Id 12 - Thread3 
+Main : Priority 1
+Main : Old state NEW 
+Main : New state BLOCKED 
+Main :===============================================
+Main : Id 13 - Thread4 
+Main : Priority 10
+Main : Old state NEW 
+Main : New state BLOCKED 
+Main :===============================================
+Main : Id 14 - Thread5 
+Main : Priority 1
+Main : Old state NEW 
+Main : New state BLOCKED 
+Main :===============================================
+Main : Id 15 - Thread6 
+Main : Priority 10
+Main : Old state NEW 
+Main : New state BLOCKED 
+Main :===============================================
+Main : Id 16 - Thread7 
+Main : Priority 1
+Main : Old state NEW 
+Main : New state BLOCKED 
+Main :===============================================
+Main : Id 17 - Thread8 
+Main : Priority 10
+Main : Old state NEW 
+Main : New state BLOCKED 
+Main :===============================================
+Main : Id 18 - Thread9 
+Main : Priority 1
+Main : Old state NEW 
+Main : New state BLOCKED 
+Main :===============================================

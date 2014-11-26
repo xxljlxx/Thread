@@ -32,7 +32,7 @@ public class Main {
 		}
 		
 		try {
-			 FileWriter file = new FileWriter(".\\log.txt");  
+			 FileWriter file = new FileWriter(".\\src\\com\\Thread\\test1\\log.txt");  
 	            PrintWriter pw = new PrintWriter(file);  
 	            for(int i =0;i<10;i++){  
 	                pw.println("main: status of thread "+i+": "+threads[i].getState());  
